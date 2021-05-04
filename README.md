@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello it's Phat! 👋
 
 <!--
 **PhattOZ/PhattOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello it's Phat!
-I'm a computer engineering student
+
+I'm a computer engineering student who never stop learning.
