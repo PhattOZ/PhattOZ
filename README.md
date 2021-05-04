@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a computer engineering student who never stop learning.
+I'm a computer engineering student who never stops learning.
