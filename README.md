@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 I'm a motivated flexible autodidactic computer engineering student who never stops exploring.
 
-🌱 I’m currently learning web application development using Next.js and extremely interested to collab on a large scale project.
+🌱 I’m currently learning web application development using [Next.js](https://github.com/vercel/next.js/) and extremely interested to collab on a large scale project.
