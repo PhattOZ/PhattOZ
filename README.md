@@ -20,8 +20,6 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 
 - 🌱 I’m currently learning web application development using [Next.js](https://github.com/vercel/next.js/) and extremely interested to collab on impactful projects.
 
-<br>
-
 ## ⛹️‍♂️ Technologies and tools I'm comfortable with
 <img src='https://img.shields.io/badge/-HTML5-282c34?logo=html5' height=25> &nbsp;
 <img src='https://img.shields.io/badge/-CSS3-282c34?logo=css3&logoColor=264de4' height=25> &nbsp;
