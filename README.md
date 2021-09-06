@@ -28,7 +28,7 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-Tailwind CSS-282c34?logo=tailwindcss' height=25> &nbsp;
 <img src='https://img.shields.io/badge/-Node.js-282c34?logo=node.js' height=25> &nbsp;
 <img src='https://img.shields.io/badge/-React-282c34?logo=react' height=25> &nbsp;
-<img src='https://img.shields.io/badge/-Next.js-282c34?logo=next.js&logoColor=ebecf0' height=25> &nbsp;
+<img src='https://img.shields.io/badge/-Next.js-282c34?logo=next.js&logoColor=ebecf0' height=25>
 
 ## 🤿 What I'm currently exploring
 <img src='https://img.shields.io/badge/-Vue.js-282c34?logo=vue.js' height=25> &nbsp;
