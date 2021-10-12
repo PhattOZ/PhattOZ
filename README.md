@@ -31,6 +31,5 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-Next.js-282c34?logo=next.js&logoColor=ebecf0' height=25>
 
 ## 🤿 What I'm currently exploring
-<img src='https://img.shields.io/badge/-Vue.js-282c34?logo=vue.js' height=25> &nbsp;
 <img src='https://img.shields.io/badge/-Nuxt.js-282c34?logo=nuxt.js&logoColor=41b883' height=25> &nbsp;
-<img src='https://img.shields.io/badge/-Azure AD-282c34?logo=microsoftazure&logoColor=007FFF' height=25> &nbsp;
+<img src='https://img.shields.io/badge/-Sass-282c34?logo=sass' height=25> &nbsp;
