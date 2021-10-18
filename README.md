@@ -33,3 +33,4 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 ## 🤿 What I'm currently exploring
 <img src='https://img.shields.io/badge/-Nuxt.js-282c34?logo=nuxt.js&logoColor=41b883' height=25> &nbsp;
 <img src='https://img.shields.io/badge/-Sass-282c34?logo=sass' height=25> &nbsp;
+<img src='https://img.shields.io/badge/-Amazon S3-282c34?logo=amazons3&logoColor=FF9900' height=25> &nbsp;
