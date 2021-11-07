@@ -23,7 +23,7 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 
 ## 📝 Techs / Tools / Languages
 
-### What I'm comfortable with
+- #### What I'm comfortable with
 <img src='https://img.shields.io/badge/-HTML5-282c34?logo=html5' height=24> &nbsp;
 <img src='https://img.shields.io/badge/-CSS3-282c34?logo=css3&logoColor=264de4' height=24> &nbsp;
 <img src='https://img.shields.io/badge/-JavaScript-282c34?logo=javascript' height=24> &nbsp;
@@ -33,7 +33,8 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-React-282c34?logo=react' height=24> &nbsp;
 <img src='https://img.shields.io/badge/-Next.js-282c34?logo=next.js&logoColor=ebecf0' height=24>
 
-### What I'm currently exploring
+- #### What I'm currently exploring
 <img src='https://img.shields.io/badge/-Nuxt.js-282c34?logo=nuxt.js&logoColor=41b883' height=24> &nbsp;
 <img src='https://img.shields.io/badge/-Sass-282c34?logo=sass' height=24> &nbsp;
 <img src='https://img.shields.io/badge/-Amazon S3-282c34?logo=amazons3&logoColor=FF9900' height=24> &nbsp;
+<img src='https://img.shields.io/badge/-Firebase Cloud Storage-282c34?logo=firebase' height=24> &nbsp;
