@@ -24,6 +24,7 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 ## 📝 Techs / Tools / Languages
 
 - #### What I'm comfortable with
+<img src='https://img.shields.io/badge/-Next.js-050A30?logo=next.js&logoColor=ebecf0' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-HTML5-050A30?logo=html5' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-CSS3-050A30?logo=css3&logoColor=264de4' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-JavaScript-050A30?logo=javascript' height=22> &nbsp;
@@ -32,7 +33,6 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-Tailwind CSS-050A30?logo=tailwindcss' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-Node.js-050A30?logo=node.js' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-React-050A30?logo=react' height=22> &nbsp;
-<img src='https://img.shields.io/badge/-Next.js-050A30?logo=next.js&logoColor=ebecf0' height=22>
 
 - #### What I'm currently exploring
 <img src='https://img.shields.io/badge/-Nuxt.js-050A30?logo=nuxt.js&logoColor=41b883' height=22> &nbsp;
