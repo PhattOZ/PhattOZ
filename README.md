@@ -28,7 +28,7 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-CSS3-050A30?logo=css3&logoColor=264de4' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-JavaScript-050A30?logo=javascript' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-MDN Web Docs-050A30?logo=mdnwebdocs' height=22> &nbsp;
-<img src='https://img.shields.io/badge/-MongoDB:Mongoose-050A30?logo=mongodb' height=22> &nbsp;
+<img src='https://img.shields.io/badge/-MongoDB-050A30?logo=mongodb' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-Tailwind CSS-050A30?logo=tailwindcss' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-Node.js-050A30?logo=node.js' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-React-050A30?logo=react' height=22> &nbsp;
