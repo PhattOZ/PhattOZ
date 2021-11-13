@@ -30,7 +30,9 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-MDN Web Docs-050A30?logo=mdnwebdocs' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-MongoDB-050A30?logo=mongodb' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-TailwindCSS-050A30?logo=tailwindcss' height=22> &nbsp;
-<img src='https://img.shields.io/badge/-Node.js-050A30?logo=node.js' height=22> &nbsp;
+<img src='https://img.shields.io/badge/-Node.js-050A30?logo=node.js' height=22>
+
+<!-- line break -->
 <img src='https://img.shields.io/badge/-React-050A30?logo=react' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-Next.js-050A30?logo=next.js&logoColor=ebecf0' height=22> &nbsp;
 
