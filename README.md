@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 I'm a motivated flexible autodidactic computer engineering student who never stops exploring.
 
-- 🌱 I’m currently learning web application development using [Next.js](https://github.com/vercel/next.js/) and extremely interested to collab on impactful projects.
+- 🌱 I'm working on MongoDB developer learning path.
+- ✏️ I’m extremely interested to contribute and collab on impactful [Next.js](https://github.com/vercel/next.js/) projects.
 - 🦩 Design and performance optimization is highly valued. Apart from getting things done, I do my best to make sure that every bit of my code is clean and properly structured.
 
 ## 📝 Techs / Tools / Languages
@@ -30,9 +31,7 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-MDN Web Docs-050A30?logo=mdnwebdocs' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-MongoDB-050A30?logo=mongodb' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-TailwindCSS-050A30?logo=tailwindcss' height=22> &nbsp;
-<img src='https://img.shields.io/badge/-Node.js-050A30?logo=node.js' height=22>
-
-<!-- line break -->
+<img src='https://img.shields.io/badge/-Node.js-050A30?logo=node.js' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-React-050A30?logo=react' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-Next.js-050A30?logo=next.js&logoColor=ebecf0' height=22> &nbsp;
 
