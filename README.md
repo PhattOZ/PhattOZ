@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 I'm a motivated flexible autodidactic computer engineering student who never stops exploring.
 
-- 🌱 I'm working on MongoDB developer learning path. Mastering fundamentals including Shard, Cluster and Mongo Shell.
+- 🍃 Now a MongoDB Certified Developer!!
 - ✏️ I’m extremely interested to contribute and collab on impactful [Next.js](https://github.com/vercel/next.js/) projects.
-- 🦩 Design and performance optimization is highly valued. Apart from getting things done, I do my best to make sure that every bit of my code is clean and properly structured.
+- 🦩 Design and performance optimization is highly valued. Apart from getting things done, I do my very best to make sure that my code is clean and properly structured.
 
 ## 📝 Techs / Tools / Languages
 
