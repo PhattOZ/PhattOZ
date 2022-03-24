@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a motivated flexible autodidactic computer engineering student who never stops exploring.
 
 - 🍃 Now a MongoDB Certified Developer!!
-- ✏️ I’m extremely interested to contribute and collab on impactful [Next.js](https://github.com/vercel/next.js/) projects.
+- ✏️ I’m extremely interested to contribute and collab on impactful projects.
 - 🦩 Design and performance optimization is highly valued. Apart from getting things done, I do my very best to make sure that my code is clean and properly structured.
 
 ## 📝 Techs / Tools / Languages
@@ -36,7 +36,6 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-Next.js-050A30?logo=next.js&logoColor=ebecf0' height=22> &nbsp;
 
 - #### What I'm currently exploring
-<img src='https://img.shields.io/badge/-Nuxt.js-050A30?logo=nuxt.js&logoColor=41b883' height=22> &nbsp;
-<img src='https://img.shields.io/badge/-Sass-050A30?logo=sass' height=22> &nbsp;
-<img src='https://img.shields.io/badge/-AmazonS3-050A30?logo=amazons3&logoColor=FF9900' height=22> &nbsp;
-<img src='https://img.shields.io/badge/-Firebase Cloud Storage-050A30?logo=firebase' height=22> &nbsp;
+<img src='https://img.shields.io/badge/-Docker-050A30?logo=docker' height=22> &nbsp;
+<img src='https://img.shields.io/badge/-Kubernetes-050A30?logo=kubernetes' height=22> &nbsp;
+<img src='https://img.shields.io/badge/-FastAPI-050A30?logo=fastapi' height=22> &nbsp;
