@@ -1,5 +1,5 @@
 
-# Hey! It's Phat 👋
+## Hey! It's Phat 👋
 
 <!--
 **PhattOZ/PhattOZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a motivated flexible autodidactic computer engineering student who never stops exploring.
+I code I joke and I eat
 
-- 🍃 Now a MongoDB Certified Developer!!
+- 🍃 Now a MongoDB Certified Developer!
+
+<!--
+
 - ✏️ I’m extremely interested to contribute and collab on impactful projects.
+
 - 🦩 Design and performance optimization is highly valued. Apart from getting things done, I do my very best to make sure that my code is clean and properly structured.
 
-## 📝 Techs / Tools / Languages
+## 📝 Techs
 
 - #### What I'm comfortable with
 <img src='https://img.shields.io/badge/-HTML5-050A30?logo=html5' height=22> &nbsp;
@@ -39,3 +43,5 @@ I'm a motivated flexible autodidactic computer engineering student who never sto
 <img src='https://img.shields.io/badge/-Docker-050A30?logo=docker' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-Kubernetes-050A30?logo=kubernetes' height=22> &nbsp;
 <img src='https://img.shields.io/badge/-FastAPI-050A30?logo=fastapi' height=22> &nbsp;
+
+-->
