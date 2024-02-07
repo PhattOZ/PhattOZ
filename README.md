@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Foodie. 99% of my Google Maps pins are food places ｡ﾟ+.ღ(ゝ◡ ⚈᷀᷁ღ)
+Foodie. Who happens to code.
 
 - 🍃 Now a MongoDB Certified Developer!
 
